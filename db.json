@@ -1,0 +1,24 @@
+{
+	"results": [
+		{
+			"name": "alice",
+			"votes": 32,
+			"win": true
+		},
+		{
+			"name": "bob",
+			"votes": 22,
+			"win": true
+		},
+		{
+			"name": "max",
+			"votes": 12,
+			"win": false
+		},
+		{
+			"name": "chester",
+			"votes": 19,
+			"win": false
+		}
+	]
+}
